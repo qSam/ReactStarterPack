@@ -1,0 +1,22 @@
+{
+  "name": "reactstarterpack",
+  "version": "1.0.0",
+  "description": "Starter Pack for React Applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qSam/ReactStarterPack.git"
+  },
+  "author": "Qasim Laghari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qSam/ReactStarterPack/issues"
+  },
+  "homepage": "https://github.com/qSam/ReactStarterPack#readme",
+  "dependencies": {
+    "webpack": "^1.13.1"
+  }
+}
