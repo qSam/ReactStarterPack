@@ -1,9 +1,8 @@
 # ReactStarterPack
-Starter Pack for building React Applications<br />
-Configured with Babel and Webpack<br />
-<br />
+Starter Pack for building React Applications  
+Configured with Babel and Webpack  
 
-To use the Starter Pack: <br />
+To use the Starter Pack:  
 
-1) npm install<br />
+1) npm install
 2) npm run dev
