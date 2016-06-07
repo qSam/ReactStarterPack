@@ -5,4 +5,4 @@ Configured with Babel and Webpack
 To use the Starter Pack:  
 
 1) npm install  
-2) npm run dev
+2) npm run start
